@@ -1,0 +1,9 @@
+@import "../../utils/constants/colors.css";
+
+.top {
+  background-color: var(--second);
+}
+
+.bottom {
+  background-color: var(--main);
+}
